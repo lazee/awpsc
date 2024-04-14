@@ -1,0 +1,1 @@
+export * as AWPSC from '@azure/web-pubsub-client'
