@@ -2,8 +2,9 @@
     "compilerOptions": {
       "moduleResolution": "node",
       "baseUrl": "./",
+      "declaration": true,
       "paths": {
         "@azure/web-pubsub-client": ["node_modules/@azure/web-pubsub-client"]
-      }
+      },
     }
   }

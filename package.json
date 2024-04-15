@@ -2,7 +2,7 @@
   "name": "@lazee/awpsc",
   "version": "1.0.0",
   "description": "ES Module of Azure Web PubSub Client",
-  "main": "index.js",
+  "main": "dist/main.js",
   "type": "module",
   "scripts": {
     "dist": "rollup -c",
